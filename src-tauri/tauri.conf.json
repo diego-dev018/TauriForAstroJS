@@ -22,7 +22,6 @@
     "security": {
       "csp": null
     }
-    
   },
   "bundle": {
     "active": true,
