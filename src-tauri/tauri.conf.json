@@ -5,7 +5,7 @@
   "identifier": "com.tauri.dev",
   "build": {
     "frontendDist": "dist",
-    "devUrl": "localhost:4321",
+    "devUrl": "http://localhost:3000",
     "beforeBuildCommand": "npm run build",
     "beforeDevCommand": "npm run dev"
   },
@@ -22,6 +22,7 @@
     "security": {
       "csp": null
     }
+    
   },
   "bundle": {
     "active": true,
