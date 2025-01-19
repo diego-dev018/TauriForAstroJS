@@ -1,6 +1,8 @@
 # Tauri For AstroJS
 
-Este es un ejemplo de como se puede integrar Tauri con AstroJS. Crea aplicaciones de escritorio con tecnologías web modernas.
+Este es un ejemplo de como se puede integrar Tauri con AstroJS.
+
+> Crea aplicaciones de escritorio con tecnologías web modernas.
 
 ## Requisitos
 
